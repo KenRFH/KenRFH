@@ -2,8 +2,8 @@
 
 🎓 **Student at Jember University**  
 💻 **Aspiring Web Developer**  
-⚡ **Tech Stack:** Laravel • PHP  
-😄 **Vibe:** Fun, curious, and always learning!
+⚡ **Tech Stack:** *masih Laravel • PHP 🙏
+😄 **Vibe:** Fun, spaneng, and always learning!
 
 ---
 
